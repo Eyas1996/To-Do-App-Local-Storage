@@ -1,6 +1,5 @@
-To-Do-App-Local-Storage
-
 To Do App with Local Storage (BOM Challenge for Learning).
+
 
 1.  Access the DOM Elements.
 2.  Prevent Default Submission.
